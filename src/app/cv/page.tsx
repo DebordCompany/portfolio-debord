@@ -12,10 +12,10 @@ export default function Cv() {
           <HeroCV info={data.basics} />
         </div>
         <hr className="mt-2" />
-        <div className="pt-10">
+        <div className="pt-6">
           <AboutMe aboutMe={data.basics.summary} title={"Sobre mi"} />
         </div>
-        <div className="pt-10">
+        <div className="pt-6">
           <Experience info={data.work} />
         </div>
         <div>

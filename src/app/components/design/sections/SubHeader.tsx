@@ -6,7 +6,8 @@ import { components } from "@/lib/data/componetsHeader";
 import LinkIcon from "@/app/icons/LinkIcon";
 import data from "@/lib/data/data.json";
 import Link from "next/link";
-import { Separator } from "debord-design";
+import { Separator } from "debord-design"
+
 
 export default function SubHeader() {
   const [open, setOpen] = useState(false);

@@ -2,21 +2,17 @@
   "home": {
     "title": "Developer and lover of design ",
     "subtitle": "Mario Sanz Gutiérrez",
-    "aboutMe": [
-      "¡Hola!, <strong>mi nombre es Mario Sanz</strong>. Soy diseñador gráfico y desarrollador web. En 2017 empecé un proyecto llamado Debord Company, una marca personal que sigue creciendo a mi lado. A lo largo de mi carrera, he tenido la oportunidad de trabajar para una amplia variedad de empresas y clientes de diferentes sectores.",
-      "Como diseñador me he enfrentado a todas las situaciones imaginables manejando todo tipo de herramientas por ejemplo la suite de Adobe, como desarrollador web, me especializo en crear soluciones personalizadas utilizando diversas herramientas y tecnologías.",
-      "En particular, tengo experiencia trabajando con Vue.js, un framework moderno y eficiente para la creación de aplicaciones web. Este es mi portfolio personal, en el encontrareis mis datos y todos los trabajos míos y para empresas realizados hasta el 2023."
-    ]
+    "aboutMe": []
   },
   "basics": {
     "name": "Mario Sanz Gutiérrez",
-    "label": "FrontEnd developer.",
+    "label": "Fullstack developer.",
     "image": "/img/foto_perfil.webp",
     "email": "work@debordcompany.com",
     "phone": "+34 653 90 16 43",
     "url": "https://debordcompany.es",
     "summary": [
-      "Hola, soy <strong>Mario Sanz</strong>, cuento con más de cuatro años de experiencia como desarrollador Front-End, he tenido el privilegio de contribuir a una variedad de proyectos. Esta diversidad de experiencias me ha enriquecido con un amplio espectro de conocimientos y perspectivas. "
+      "Hola, soy Mario Sanz. Llevo más de cuatro años resolviendo retos técnicos y de producto con un perfil front‑first y experiencia full‑stack. Diseño y ejecuto soluciones end‑to‑end, desde la experiencia de usuario hasta el servicio. Trabajo con contenedores y pipelines para despliegues reproducibles, aplico testing y revisiones de código como norma, y colaboro estrechamente con producto para transformar requisitos del negocio en soluciones técnicas factibles"
     ],
     "location": {
       "address": "",
@@ -49,8 +45,10 @@
       "position": "FrontEnd Developer",
       "startDate": "2024-09-01",
       "endDate": "Actual",
-      "summary": "Mi rol dentro de Lazarus se centra en la arquitectura, desarrollo y mantenimiento de una plataforma de microservicios escalable y robusta. Me especializo en la creación de servicios independientes y reutilizables, utilizando tecnologías como  React, Vue.js, Node.js, deno, php, SQL... En el proceso de trabajo aplicamos arquitectura DDD, TDD y SCRUM. ",
-      "highlights": ["Started the company"]
+      "summary": "Mi rol dentro de Lazarus se centra en la arquitectura, desarrollo y mantenimiento de microservicios escalables y robustos. Me especializo en la creación de servicios independientes y reutilizables, utilizando tecnologías como  React, Vue.js, Node.js, Python, Php, SQL, Mongo... En el proceso de trabajo aplicamos arquitectura DDD, TDD y SCRUM. ",
+      "highlights": [
+        "Started the company"
+      ]
     },
     {
       "name": "Ezpays",
@@ -58,8 +56,10 @@
       "url": "https://ezpays.io/",
       "startDate": "2023-01-01",
       "endDate": "2025-04-01",
-      "summary": "Entre mis responsabilidades están: crear componentes en diferentes bibliotecas (Vue,js, React.js), crear e integrar pasarelas de pago via API personalizadas para cada cliente, desarrollar kit digitales...  ",
-      "highlights": ["Started the company"]
+      "summary": "Entre mis responsabilidades dar soporte e integrar servicios de pago requeridos por negocio",
+      "highlights": [
+        "Started the company"
+      ]
     },
     {
       "name": "Trazos_",
@@ -67,8 +67,10 @@
       "url": "https://trazos.net/",
       "startDate": "2023-02-01",
       "endDate": "2024-01-01",
-      "summary": "Mi función dentro de Trazos_ es el mantenimiento, soporte, desarrollo y escalabilidad de las distintas webs de la empresa aplicando tecnologias como React, Vue.js, Node, vanilla js...",
-      "highlights": ["Started the company"]
+      "summary": "Mi función dentro de Trazos_ es el mantenimiento, soporte, desarrollo y escalabilidad de las distintas webs de la empresa.",
+      "highlights": [
+        "Started the company"
+      ]
     },
     {
       "name": "Debord Company",
@@ -76,7 +78,9 @@
       "startDate": "2017-08-01",
       "endDate": "2023-01-01",
       "summary": "Durante mi periodo como freelance he creado soluciones personalizadas a varios niveles, tanto  como desarrollador como diseñador gráfico",
-      "highlights": ["Started the company"]
+      "highlights": [
+        "Started the company"
+      ]
     }
   ],
   "volunteer": [
@@ -87,7 +91,9 @@
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
       "summary": "Description…",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
     }
   ],
   "education": [
@@ -99,7 +105,9 @@
       "startDate": "2021-01-01",
       "endDate": "2022-04-01",
       "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
     },
     {
       "institution": "Universidad Complutense",
@@ -109,7 +117,9 @@
       "startDate": "2008-09-01",
       "endDate": "2013-06-01",
       "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
     }
   ],
   "awards": [
@@ -141,17 +151,29 @@
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend"]
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
     },
     {
       "name": "Tailwind",
@@ -176,12 +198,22 @@
     {
       "name": "Vue",
       "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
     },
     {
       "name": "React",
       "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
     },
     {
       "name": "Svelte",
@@ -196,7 +228,11 @@
     {
       "name": "Git",
       "level": "Avanzado",
-      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
     },
     {
       "name": "GitHub",
@@ -240,6 +276,86 @@
         "SSR",
         "Static Generation"
       ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "NoSQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermedio",
+      "keywords": [
+        "Contenedores",
+        "DevOps",
+        "Despliegue"
+      ]
+    },
+    {
+      "name": "Postgree",
+      "level": "Intermedio",
+      "keywords": [
+        "Contenedores",
+        "Orquestación",
+        "Despliegue"
+      ]
+    },
+    {
+      "name": "DDD",
+      "level": "Intermedio",
+      "keywords": [
+        "Contenedores",
+        "Orquestación",
+        "Despliegue"
+      ]
     }
   ],
   "languages": [
@@ -255,7 +371,10 @@
   "interests": [
     {
       "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
     }
   ],
   "references": [
@@ -284,11 +403,12 @@
       "id": 2,
       "name": "Las Vegas",
       "isActive": true,
-      "description": "Creada con Vue.js, migrada a Astro, llevo mas de dos años dando soporte y actualizaciones a este proyecto, facilitando tareas rutinarias.",
+      "description": "Creada con Vue.js, migrada a Astro, apoyada en servicos node y python para automatizar tareas y gestión de una empresa hostelera en Madrid.",
       "highlights": [
         "Astro.js",
         "Automatización",
-        "Vue.js, scss, pasarela de pago"
+        "Vue.js, scss, pasarela de pago",
+        "Node.js, python"
       ],
       "url": "https://lasvegascafeteria.es",
       "image": "/img/bg-projects_1.webp"
@@ -298,7 +418,12 @@
       "name": "Conversor",
       "isActive": true,
       "description": "Surgió como un proyecto de empresa esta Api para cambiar el tamaño y la resolución de imagenes",
-      "highlights": ["Node.js", "github", "React.js", "Express.js"],
+      "highlights": [
+        "Node.js",
+        "github",
+        "React.js",
+        "Express.js"
+      ],
       "url": "/conversor",
       "image": "/img/bg-projects_3.webp"
     },
@@ -307,7 +432,11 @@
       "name": "Freelance",
       "isActive": false,
       "description": "Recopilación de los trabajos realizados durante mi vida como freelance",
-      "highlights": ["Vue.js", "Diseño de interfaces", "diseño gráfico"],
+      "highlights": [
+        "Vue.js",
+        "Diseño de interfaces",
+        "diseño gráfico"
+      ],
       "url": "https://github.com/DebordCompany",
       "github": "https://github.com/DebordCompany",
       "image": "/img/bg-projects_2.webp"
@@ -317,7 +446,12 @@
       "name": "Pildoras Culinarias",
       "isActive": true,
       "description": "Este proyecto es un blog personal de recetas y consejos de cocina. Aquí recopilo mi otra pasión, la cocina.",
-      "highlights": ["React.js", "Wordpress", "Headless", "Next.js"],
+      "highlights": [
+        "React.js",
+        "Wordpress",
+        "Headless",
+        "Next.js"
+      ],
       "url": "https://pildorasculinarias.com/",
       "github": "https://github.com/DebordCompany",
       "image": "/img/pildoras.webp"
