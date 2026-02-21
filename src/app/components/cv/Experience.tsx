@@ -13,7 +13,14 @@ export default function Experience({ info }) {
                 </p>
               </div>
               <h4 className="font-light">{element.position}</h4>
-              <p className="text-sm pt-2">{element.summary}</p>
+              <p className="text-sm print:text-xs pt-2">{element.summary}</p>
+              <div className="flex flex-wrap gap-1">
+                {element.highlights.map((highlight, index) => {
+                  return (
+                    <p key={index} className="text-[10px] bg-gray-200 border border-gray-200 rounded-full px-1 py-[1px]">{highlight}</p>
+                  )
+                })}
+              </div>
             </div>
           );
         })}

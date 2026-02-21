@@ -23,19 +23,14 @@
     },
     "profiles": [
       {
-        "network": "/img/linkedin-white.svg",
-        "username": "Mario Sanz",
-        "url": "https://www.linkedin.com/in/mario-sanz-guti%C3%A9rrez/"
-      },
-      {
-        "network": "/img/instagram-white.svg",
-        "username": "@debordcompany",
-        "url": "https://www.instagram.com/debordcompany/?hl=es"
-      },
-      {
         "network": "/img/github-white.svg",
         "username": "DebordCompany",
         "url": "https://github.com/DebordCompany"
+      },
+      {
+        "network": "/img/linkedin-white.svg",
+        "username": "Mario Sanz",
+        "url": "https://www.linkedin.com/in/mario-sanz-guti%C3%A9rrez/"
       }
     ]
   },
@@ -45,9 +40,23 @@
       "position": "FrontEnd Developer",
       "startDate": "2024-09-01",
       "endDate": "Actual",
-      "summary": "Mi rol dentro de Lazarus se centra en la arquitectura, desarrollo y mantenimiento de microservicios escalables y robustos. Me especializo en la creación de servicios independientes y reutilizables, utilizando tecnologías como  React, Vue.js, Node.js, Python, Php, SQL, Mongo... En el proceso de trabajo aplicamos arquitectura DDD, TDD y SCRUM. ",
+      "summary": "Mi rol dentro de Lazarus se centra en la arquitectura, desarrollo y mantenimiento de microservicios escalables y robustos. Me especializo en la creación de servicios independientes y reutilizables, utilizando tecnologías como  React, Vue.js, Node.js, Python, Php, SQL, Mongo... En el proceso de trabajo aplicamos arquitectura DDD, ademas de trabajar con contenedores y pipelines para despliegues reproducibles, aplicamos testing y revisiones de código como norma, y colaboramos estrechamente con producto para transformar requisitos del negocio en soluciones técnicas factibles",
       "highlights": [
-        "Started the company"
+        "React.js",
+        "Vue.js",
+        "Next.js",
+        "Node.js",
+        "Python",
+        "Php",
+        "SQL",
+        "MongoDB",
+        "DDD",
+        "Docker",
+        "Postgree",
+        "Git",
+        "Azure DevOps",
+        "Testing",
+        "Typescript"
       ]
     },
     {
@@ -56,9 +65,17 @@
       "url": "https://ezpays.io/",
       "startDate": "2023-01-01",
       "endDate": "2025-04-01",
-      "summary": "Entre mis responsabilidades dar soporte e integrar servicios de pago requeridos por negocio",
+      "summary": "Responsable de escalar la plataforma Fintech mediante la integración de APIs y el desarrollo de dashboards avanzados. Consolidé el uso de Next.js, Astro y TypeScript sobre mi base técnica en React y Vue, asegurando la mantenibilidad del sistema y la definición de estándares de datos en entornos colaborativos (Git/Jira) orientados a objetivos de negocio.",
       "highlights": [
-        "Started the company"
+        "React.js",
+        "Vue.js",
+        "Node.js",
+        "Astro.js",
+        "Next.js",
+        "Docker",
+        "Git",
+        "Testing",
+        "Typescript"
       ]
     },
     {
@@ -67,9 +84,14 @@
       "url": "https://trazos.net/",
       "startDate": "2023-02-01",
       "endDate": "2024-01-01",
-      "summary": "Mi función dentro de Trazos_ es el mantenimiento, soporte, desarrollo y escalabilidad de las distintas webs de la empresa.",
+      "summary": "Gestioné la escalabilidad de activos web, automatizando procesos internos e integrando servicios como Zoho. Evolucioné las plataformas utilizando Next.js, Node.js y TypeScript bajo metodologías ágiles, garantizando soluciones técnicas transversales que optimizaron la operativa de los distintos departamentos.",
       "highlights": [
-        "Started the company"
+        "React.js",
+        "Next.js",
+        "Node.js",
+        "Postgree",
+        "Git",
+        "Typescript"
       ]
     },
     {
@@ -79,7 +101,12 @@
       "endDate": "2023-01-01",
       "summary": "Durante mi periodo como freelance he creado soluciones personalizadas a varios niveles, tanto  como desarrollador como diseñador gráfico",
       "highlights": [
-        "Started the company"
+        "Vue.js",
+        "Php",
+        "React.js",
+        "Node.js",
+        "SQL",
+        "Git"
       ]
     }
   ],
@@ -102,8 +129,8 @@
       "url": "https://www.uoc.edu/portal/es/index.html",
       "area": "FrontEnd developer",
       "studyType": "Máster",
-      "startDate": "2021-01-01",
-      "endDate": "2022-04-01",
+      "startDate": "2020-01-01",
+      "endDate": "2021-04-01",
       "score": "4.0",
       "courses": [
         "DB1101 - Basic SQL"
