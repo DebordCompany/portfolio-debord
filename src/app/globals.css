@@ -1,5 +1,5 @@
-@import "tailwindcss";
 @import url("../lib/assests/animations.css");
+@import "tailwindcss";
 
 :root {
   --text-color: #f4f4f4;

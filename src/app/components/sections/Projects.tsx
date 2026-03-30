@@ -1,5 +1,5 @@
 export function Projects({ projects }) {
-  const data = projects.filter((project) => project.isActive);
+  const data = projects.filter((project) => project.isActive).sort((a, b) => b.id - a.id);
   return (
     <section>
       <p className="text-xl text-black dark:text-white font-black">Proyectos</p>
@@ -7,7 +7,7 @@ export function Projects({ projects }) {
         {data.map((element) => {
           return (
             <article
-              className="  border-2 border-neutral-600 p-5  shadow-xl flex flex-col items-stretch gap-3 bg-cover bg-center bg-no-repeat"
+              className="  border-2 border-neutral-600 p-5  shadow-xl flex flex-col items-stretch gap-3 bg-cover bg-center bg-no-repeat hover:scale-[1.01] transition-all"
               key={element.id}
             >
               <a

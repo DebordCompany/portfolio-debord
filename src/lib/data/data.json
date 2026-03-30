@@ -471,7 +471,7 @@
     {
       "id": 5,
       "name": "Pildoras Culinarias",
-      "isActive": true,
+      "isActive": false,
       "description": "Este proyecto es un blog personal de recetas y consejos de cocina. Aquí recopilo mi otra pasión, la cocina.",
       "highlights": [
         "React.js",
@@ -480,6 +480,34 @@
         "Next.js"
       ],
       "url": "https://pildorasculinarias.com/",
+      "github": "https://github.com/DebordCompany",
+      "image": "/img/pildoras.webp"
+    },
+    {
+      "id": 6,
+      "name": "Debord Design",
+      "isActive": true,
+      "description": "Una librería de componentes atómicos para React diseñada para acelerar el desarrollo web con un enfoque en la modularidad y la personalización. Actualmente en fase activa de desarrollo (WIP).",
+      "highlights": [
+        "React.js",
+        "storybook",
+        "npm"
+      ],
+      "url": "/design",
+      "github": "https://github.com/DebordCompany",
+      "image": "/img/pildoras.webp"
+    },
+    {
+      "id": 7,
+      "name": "Git Debord",
+      "isActive": true,
+      "description": "Gestión visual de rebases interactivos y cherry-picks multicommit para VS Code. Control total de tu historial de Git de forma ágil y sin terminal. (En desarrollo).",
+      "highlights": [
+        "Typescript",
+        "git",
+        "VS Code Extension API"
+      ],
+      "url": "https://marketplace.visualstudio.com/items?itemName=MarioSanz.git-debord",
       "github": "https://github.com/DebordCompany",
       "image": "/img/pildoras.webp"
     }
