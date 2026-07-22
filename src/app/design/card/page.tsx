@@ -15,7 +15,14 @@ import {
   Button,
 } from "debord-design";
 export default function CardPage() {
-  const cardExample = ["none", "small", "medium", "big", "extra", "vintage"];
+  const cardExample = [
+    "none",
+    "small",
+    "medium",
+    "big",
+    "extra",
+    "vintage",
+  ] as const;
   return (
     <>
       <TextBlock

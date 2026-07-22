@@ -12,7 +12,7 @@ export default function ChipPage() {
     "success",
     "error",
     "warning",
-  ];
+  ] as const;
   return (
     <>
       <TextBlock
