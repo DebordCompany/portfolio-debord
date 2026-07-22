@@ -17,6 +17,9 @@ export function MenuNav() {
       <li>
         <Link href="/design">Design</Link>
       </li>
+      <li>
+        <Link href="/markit">Markit</Link>
+      </li>
     </ul>
   );
 }
