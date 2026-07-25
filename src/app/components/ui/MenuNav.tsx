@@ -20,6 +20,9 @@ export function MenuNav() {
       <li>
         <Link href="/markit">Markit</Link>
       </li>
+      <li>
+        <Link href="/git-debord">Git Debord</Link>
+      </li>
     </ul>
   );
 }

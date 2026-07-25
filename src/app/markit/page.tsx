@@ -1,5 +1,6 @@
 import MarkitHero from "@/app/components/markit/MarkitHero";
 import InstallSteps from "@/app/components/markit/InstallSteps";
+import Roadmap from "@/app/components/markit/Roadmap";
 
 export const metadata = {
   title: "Markit || Debord Company",
@@ -15,6 +16,9 @@ export default function MarkitPage() {
       </article>
       <article className="pt-5">
         <InstallSteps />
+      </article>
+      <article className="pt-5">
+        <Roadmap />
       </article>
     </section>
   );
