@@ -2,7 +2,7 @@ export default function Skills({ info }) {
   return (
     <>
       <h3 className="text-xl font-black">Skills</h3>
-      <p className="pt-4">Estas son las tecnologias con las que he trabajado</p>
+      <p className="pt-4">Estas son las tecnologías con las que he trabajado</p>
       <ul className="flex flex-wrap gap-2 pt-4">
         {info.map((element, index) => {
           return (

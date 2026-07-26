@@ -2,6 +2,16 @@ import { Separator, Text } from "debord-design";
 import TextBlock from "@/app/components/design/sections/TextBlock";
 import Props from "@/app/components/design/sections/Props";
 import data from "@/lib/data/props.json";
+
+export const metadata = {
+  title: "Text — Debord Design",
+  description:
+    "Documentación del componente Text de Debord Design: párrafos preformateados listos para usar.",
+  alternates: {
+    canonical: "/design/text",
+  },
+};
+
 export default function TextPage() {
   return (
     <>

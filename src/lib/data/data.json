@@ -1,7 +1,10 @@
 {
   "home": {
-    "title": "Developer and lover of design ",
+    "title": "Desarrollador full-stack y creador de herramientas propias",
     "subtitle": "Mario Sanz Gutiérrez",
+    "pitch": [
+      "Soy Mario Sanz, desarrollador front-first con experiencia full-stack, y este sitio es donde reúno los proyectos personales que voy construyendo: desde Markit, un lector de Markdown para macOS, hasta Git Debord, una extensión de VS Code, pasando por Debord Design, mi propia librería de componentes React. Aquí puedes explorarlos, probarlos y ver cómo evolucionan."
+    ],
     "aboutMe": []
   },
   "basics": {
@@ -24,11 +27,13 @@
     "profiles": [
       {
         "network": "/img/github-white.svg",
+        "label": "GitHub",
         "username": "DebordCompany",
         "url": "https://github.com/DebordCompany"
       },
       {
         "network": "/img/linkedin-white.svg",
+        "label": "LinkedIn",
         "username": "Mario Sanz",
         "url": "https://www.linkedin.com/in/mario-sanz-guti%C3%A9rrez/"
       }
@@ -444,7 +449,7 @@
       "id": 3,
       "name": "Conversor",
       "isActive": true,
-      "description": "Surgió como un proyecto de empresa esta Api para cambiar el tamaño y la resolución de imagenes",
+      "description": "Una API que surgió como proyecto de empresa para cambiar el tamaño y la resolución de imágenes.",
       "highlights": [
         "Node.js",
         "github",
@@ -508,6 +513,20 @@
         "VS Code Extension API"
       ],
       "url": "https://marketplace.visualstudio.com/items?itemName=MarioSanz.git-debord",
+      "github": "https://github.com/DebordCompany",
+      "image": "/img/pildoras.webp"
+    },
+    {
+      "id": 8,
+      "name": "Markit",
+      "isActive": true,
+      "description": "Lector de Markdown nativo para macOS. Abre tus archivos .md y léelos tal y como se ven, sin editores pesados ni pestañas de navegador de por medio.",
+      "highlights": [
+        "macOS",
+        "Markdown",
+        "App nativa"
+      ],
+      "url": "/markit",
       "github": "https://github.com/DebordCompany",
       "image": "/img/pildoras.webp"
     }

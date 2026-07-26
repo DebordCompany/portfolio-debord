@@ -36,8 +36,7 @@ export const simpleCard = `
         <CardSpacing>
           <Title variant="h3">Texto de ejemplo</Title>
              <Text>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Earum, sequi?
+                Contenido de ejemplo dentro de un CardSpacing.
              </Text>
         </CardSpacing>
     </CardContent>

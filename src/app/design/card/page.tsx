@@ -14,6 +14,16 @@ import {
   Text,
   Button,
 } from "debord-design";
+
+export const metadata = {
+  title: "Card — Debord Design",
+  description:
+    "Documentación del componente Card de Debord Design: subcomponentes CardContent, CardMedia y CardSpacing, y sus estilos.",
+  alternates: {
+    canonical: "/design/card",
+  },
+};
+
 export default function CardPage() {
   const cardExample = [
     "none",
@@ -47,8 +57,8 @@ export default function CardPage() {
                 <CardSpacing>
                   <Title variant="h3">Título de ejemplo</Title>
                   <Text>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Earum, sequi?
+                    Contenido de ejemplo dentro de un CardSpacing, ideal para
+                    una breve descripción o resumen.
                   </Text>
                 </CardSpacing>
               </CardContent>
@@ -68,8 +78,8 @@ export default function CardPage() {
                 <CardSpacing>
                   <Title variant="h3">Título de ejemplo</Title>
                   <Text>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Earum, sequi?
+                    Contenido de ejemplo dentro de un CardSpacing, ideal para
+                    una breve descripción o resumen.
                   </Text>
                 </CardSpacing>
               </CardContent>
@@ -122,11 +132,11 @@ export default function CardPage() {
               >
                 <CardContent>
                   <CardSpacing>
-                    <Title>Title</Title>
+                    <Title>Título</Title>
                     <hr />
                     <Text>
-                      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                      Aperiam, ipsum.
+                      Cada tarjeta de este grid usa un valor distinto de la
+                      prop shadow, de "none" a "vintage".
                     </Text>
                   </CardSpacing>
                 </CardContent>

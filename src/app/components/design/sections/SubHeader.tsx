@@ -70,7 +70,7 @@ export default function SubHeader() {
                     <a target="_blank" href={item.url}>
                       <img
                         src={item.network}
-                        alt={item.username}
+                        alt={`Icono de ${item.label}`}
                         className="w-6"
                       />
                     </a>

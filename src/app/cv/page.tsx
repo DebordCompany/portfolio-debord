@@ -15,7 +15,7 @@ export default function Cv() {
         </div>
         <hr className="mt-2" />
         <div className="pt-6">
-          <AboutMe aboutMe={data.basics.summary} title={"Sobre mi"} />
+          <AboutMe aboutMe={data.basics.summary} title={"Sobre mí"} />
         </div>
         <div className="pt-6">
           <Experience info={data.work} />
@@ -81,7 +81,7 @@ export default function Cv() {
                   href={profile.url}
                   className="text-sm text-blue-500 underline"
                 >
-                  <img src={profile.network} alt={profile.network} className="inline-block w-4 h-4 mr-1 invert" />
+                  <img src={profile.network} alt={`Icono de ${profile.label}`} className="inline-block w-4 h-4 mr-1 invert" />
                 </a>
               );
             })}

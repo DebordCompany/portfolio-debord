@@ -4,13 +4,15 @@ import TextBlock from "@/app/components/design/sections/TextBlock";
 import Props from "@/app/components/design/sections/Props";
 import data from "@/lib/data/props.json";
 
-const cards = [
-  "laksjdflkjasdf ldjfsadf lksjdf  sldkfj asldkfasd ñlkasdj alsdkfj asdflkj asdflkjasdf ",
-  "as",
-  "adsfasdf asdfasdf asd fasd",
-  "sdfsdfsdfa",
-  "asdf asdf asd fasd fas df sadf asdf a",
-];
+export const metadata = {
+  title: "Title — Debord Design",
+  description:
+    "Documentación del componente Title de Debord Design: niveles de encabezado, variantes visuales y accesibilidad.",
+  alternates: {
+    canonical: "/design/title-component",
+  },
+};
+
 export default function TitleComponentPage() {
   return (
     <>

@@ -56,7 +56,7 @@ export default function ButtonPage() {
       <TextBlock
         title={"Button"}
         texts={[
-          "Descubre cómo nuestro botón interactivo mejora la experiencia de usuario, con opciones personalizables y una integración sencilla en cualquier proyecto. Aprende a implementarlo y configurarlo según tus necesidades, optimizando la funcionalidad y el diseño de tu interfaz de usuario. ¡Explora sus características y maximiza la eficiencia en tu desarrollo web!.",
+          "El componente Button es un botón interactivo con varias variantes, colores y formas, pensado para integrarse fácilmente en cualquier proyecto React.",
         ]}
       />
       <Separator />

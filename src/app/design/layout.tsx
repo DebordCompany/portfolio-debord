@@ -15,8 +15,9 @@ const montserrat = Montserrat({
 });
 
 export const metadata = {
-  title: "Debord Design || npm package ",
-  description: "Una libreria de componentes para React sencilla. ",
+  title: "Debord Design",
+  description:
+    "Documentación de Debord Design, la librería de componentes React que he construido y publicado en npm.",
 };
 
 export default function DesignLayout({ children }) {

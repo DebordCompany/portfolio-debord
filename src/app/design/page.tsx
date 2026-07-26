@@ -5,12 +5,21 @@ import FooterHeader from "../components/design/sections/FooterHeader";
 import { codeExampleTitle, tailwindConfig } from "@/lib/data/code";
 const requisites = ["React (16)", "Tailwind", "Node.js"];
 
+export const metadata = {
+  title: "Debord Design — Documentación de la librería de componentes",
+  description:
+    "Documentación oficial de Debord Design: instalación, configuración y uso de la librería de componentes React construida con Tailwind CSS.",
+  alternates: {
+    canonical: "/design",
+  },
+};
+
 export default function Design() {
   return (
     <>
       <main className="flex flex-col gap-8">
         <div className="flex flex-col gap-6">
-          <Title level="h1">Debord Company design</Title>
+          <Title level="h1">Debord Design</Title>
           <Text>
             Bienvenido a la documentación oficial de{" "}
             <strong>Debord Design</strong>. Esta guía te ayudará a configurar y

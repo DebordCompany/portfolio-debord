@@ -3,6 +3,15 @@ import { Separator } from "debord-design";
 import TextBlock from "@/app/components/design/sections/TextBlock";
 import data from "@/lib/data/props.json";
 
+export const metadata = {
+  title: "Separator — Debord Design",
+  description:
+    "Documentación del componente Separator de Debord Design: espaciado uniforme entre secciones.",
+  alternates: {
+    canonical: "/design/separator-component",
+  },
+};
+
 const separators: number[] = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 export default function SeparatorPage() {

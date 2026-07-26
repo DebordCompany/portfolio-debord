@@ -4,6 +4,15 @@ import TextBlock from "@/app/components/design/sections/TextBlock";
 import { Separator, Chip } from "debord-design";
 import props from "@/lib/data/props.json";
 
+export const metadata = {
+  title: "Chip — Debord Design",
+  description:
+    "Documentación del componente Chip de Debord Design: estilos, colores y variantes.",
+  alternates: {
+    canonical: "/design/chip",
+  },
+};
+
 export default function ChipPage() {
   const chipColors = [
     "default",
@@ -47,6 +56,7 @@ export default function ChipPage() {
         </InfoWarning>
         <Separator />
         <TextBlock
+          level="h2"
           title="Colores"
           texts={[
             "Los colores son personalizables a nivel de tema o por clases css, aquí te mostramos los colores que incluimos en nuestro tema.",

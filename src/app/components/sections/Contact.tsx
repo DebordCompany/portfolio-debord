@@ -6,7 +6,7 @@ export default function Contact({ data }) {
   }
   return (
     <>
-      <p className="text-xl font-black">Contactame</p>
+      <p className="text-xl font-black">Contáctame</p>
       <section className="pt-5 flex flex-col gap-4">
         <article>
           <ul className="flex items-center gap-5">
@@ -21,7 +21,7 @@ export default function Contact({ data }) {
                     <img
                       className="w-8"
                       src={element.network}
-                      alt={element.username}
+                      alt={`Icono de ${element.label}`}
                     />
                   </a>
                 </li>
