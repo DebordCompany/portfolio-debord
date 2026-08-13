@@ -20,6 +20,7 @@ const items: RoadmapItem[] = [
     title: "Exportar a PDF",
     description:
       "Convertir cualquier archivo .md en un PDF listo para compartir, respetando el formato y los estilos de Markit.",
+    done: true,
   },
 ];
 
