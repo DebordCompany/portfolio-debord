@@ -35,7 +35,7 @@ export default function InstallSteps() {
         ))}
       </div>
 
-    <p className="text-sm text-pretty mt-4 bg-amber-100 p-2">
+      <p className="text-sm text-pretty mt-4 p-2 bg-amber-100 text-neutral-800 dark:bg-amber-950 dark:text-amber-100">
         Nota: si macOS avisa de “desarrollador no identificado” al abrir
         Markit, ve a Ajustes del Sistema → Privacidad y seguridad y pulsa
         “Abrir de todos modos”, o haz clic derecho sobre la app y elige Abrir.
